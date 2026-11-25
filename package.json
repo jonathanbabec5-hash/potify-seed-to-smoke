@@ -1,0 +1,8 @@
+{
+  "name": "potify-seed-to-smoke",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "check:public": "node --test tests/project.test.mjs"
+  }
+}
