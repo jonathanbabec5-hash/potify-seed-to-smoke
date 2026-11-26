@@ -2,6 +2,14 @@
 
 [Complete repository directory tree](docs/DIRECTORY.md)
 
+## The detail a caption can save
+
+At the beginning of the public field film, the caption marks two pencil taps. That is a small sound to keep, but it gives the scene a pulse even for a viewer watching silently. The attention paid to that cue is a good way into From Seed to Smoke.
+
+The [timed captions](public/film/field-note.vtt) sit alongside the [public field film](public/film/field-note.mp4). They are a versioned preview, distinct from a finished episode. Read one cue and look at the same moment in the picture before deciding how to edit it.
+
+Check the opening cue and one transition on a phone. If a line disappears too early or lands late, include the timestamp, device and a proposed change. A preview view is not a premiere attendance record.
+
 **Film preview, captions and screening page.** Introduce Episode 1 through actual cultivation footage and an accessible short preview.
 
 ### Setup and usage
