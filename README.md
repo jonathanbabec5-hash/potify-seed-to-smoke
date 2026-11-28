@@ -1,5 +1,13 @@
 # From Seed to Smoke
 
+## Find your way in
+
+| If you are… | Start here | Try this |
+| --- | --- | --- |
+| A viewer | [Preview the film locally](#setup-and-usage) | Watch the public preview and check its captions. |
+| A caption editor | [Read the timed captions](public/film/field-note.vtt) | Suggest a timestamped correction using a public cue. |
+| A reader | [Explore the First Cycle edition](https://github.com/jonathanbabec5-hash/potify-first-cycle-public-edition) | Find the related book and recording. |
+
 [Complete repository directory tree](docs/DIRECTORY.md)
 
 ## The detail a caption can save
